@@ -12,7 +12,7 @@ function Projects() {
       <div className={styles.projectContainer}>
         <ProjectCard
           src={Portfolio}
-          link="https://github.com/AnujBanote/AnujPortfolioNew"
+          link="https://github.com/AnujBanote/React-New-Portfolio"
           h3="Portfolio"
           p="Personal Portfolio Webpage"
         />
