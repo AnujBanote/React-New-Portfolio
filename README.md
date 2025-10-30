@@ -7,7 +7,7 @@ It features **dark/light theme toggle**, **animated hover effects**, and a **wor
 
 ## 🚀 Live Demo
 
-👉 [View Live Portfolio](https://your-portfolio-link.vercel.app)
+👉 [View Live Portfolio]([https://your-portfolio-link.vercel.app](https://anujbanoteportolio.netlify.app/))
 
 ---
 
